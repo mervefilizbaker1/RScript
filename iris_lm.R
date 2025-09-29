@@ -15,3 +15,4 @@ plot(iris$Sepal.Width, iris$Sepal.Length,
      xlab = "Sepal Width", ylab = "Sepal Length",
      main = "Linear Regression: Sepal length and width")
 abline(lm_model, col = "red", lwd = 2)
+
